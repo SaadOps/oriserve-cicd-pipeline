@@ -92,7 +92,7 @@ The CI/CD pipeline follows these key steps:
 
 1. Launch a separate **EC2 instance** for Jenkins.
 2. Install **Jenkins** by following the [Jenkins installation guide](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/).
-3. Install **Git** on the Jenkins server:
+3. Install **Git** on the Jenkins server if not present by default:
 
     ```bash
     sudo apt install git -y
