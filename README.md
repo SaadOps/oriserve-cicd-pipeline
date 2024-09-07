@@ -1,9 +1,9 @@
-![CICD](https://github.com/user-attachments/assets/e912cfd4-f16f-41a1-b38c-a8e346519bb5)
-Here's an updated version of the README with the mentioned changes:
 
 ---
 
 # CI/CD Pipeline Setup using AWS, Jenkins, and CodeDeploy
+
+![CICD](https://github.com/user-attachments/assets/e912cfd4-f16f-41a1-b38c-a8e346519bb5)
 
 This guide demonstrates how to set up a **CI/CD pipeline** using **Jenkins**, **AWS CodeDeploy**, and **EC2 instances**. The pipeline deploys a web application to an EC2 server upon every code push to a GitHub repository and scales automatically based on load, ensuring the application is always up-to-date.
 
