@@ -2,6 +2,7 @@
 ---
 
 # CI/CD Pipeline Setup using AWS, Jenkins, and CodeDeploy
+( [View all the screenshots here](https://github.com/SaadOps/oriserve-cicd-pipeline/blob/main/Screenshots.pdf) )
 
 ![CICD](https://github.com/user-attachments/assets/e912cfd4-f16f-41a1-b38c-a8e346519bb5)
 
